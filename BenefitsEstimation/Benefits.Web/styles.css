@@ -1,0 +1,18 @@
+﻿
+#app{
+    height:100%
+}
+
+.employeeCard {
+    margin: 20px;
+}
+.spouseCard {
+    margin: 20px;
+}
+.dependentCard {
+
+}
+
+body{
+    height:100%
+}
