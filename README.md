@@ -2,6 +2,14 @@
 In this repository I store the sample code and presentation slides for the talks I have given at 
 [JaxDug](https://www.meetup.com/Jaxdug/).
 
+## Azure Application Insights: Add Application Telemetry & Monitoring to your Web Apps! (January 2019)
+You’ve got a website, but how well is it running? You’ve built your application, but do you know how people are using it? In this session you will learn what Azure Application Insights is, a free service offered by Microsoft Azure and what you can do with it. Sure, it’s easy to setup Application Insights with some live analytics, but did you know you can setup your own custom dashboards and alerts to monitor the health of your application? That’s not all… you can use Application Insights to also track logging data, track custom events and even track the telemetry of specific users.
+
+*By [Andrew Connell](https://github.com/andrewconnell) - [@andrewconnell](https://www.twitter.com/andrewconnell)*
+
+ - [Slides](./Azure-AppInsights/azureappinsights.pptx)
+ - [Meetup](https://www.meetup.com/jaxdug/events/msctdpyzcbnb/)
+
 ## WebAssembly with OOUI and Blazor (May 10th, 2018)
 In this presentation I show an overview of Web Assembly with demos of OOUI and Blazor. The presentation will cover how to use the Mono compiler toolchain to build, deploy, and run .Net assemblies in the web browser. The focus is on the bleeding-edge work being done by several open source projects and will, hopefully, show everyone how and why you may want to invest some time learning about this exciting new technology stack addition.
 
